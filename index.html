@@ -212,6 +212,16 @@
       padding: 5px 13px; border-radius: 20px; white-space: nowrap;
     }
 
+    .nav-link-projects {
+      font-size: 13px; font-weight: 500; color: var(--text-3);
+      display: flex; align-items: center; gap: 6px;
+      padding: 6px 12px; border-radius: var(--radius-xs);
+      border: 1px solid var(--border);
+      transition: color var(--transition), border-color var(--transition);
+      white-space: nowrap; text-decoration: none;
+    }
+    .nav-link-projects:hover { color: var(--gold); border-color: var(--gold-line); }
+
     /* ══════════════════════════════════════
        HERO — real Kolkata image via Unsplash
     ══════════════════════════════════════ */
@@ -858,6 +868,7 @@
       .hero { padding: 80px 0 64px; min-height: 520px; }
       .nav-brand-name { font-size: 16px; }
       .nav-pill { display: none; }
+      .nav-link-projects { display: none; }
       .truth-strip { padding: 12px 16px; gap: 10px; }
       .tool-card { padding: 26px; }
       .card-name { font-size: 22px; }
@@ -884,6 +895,7 @@
         <span class="nav-brand-name">Kevala Home</span>
       </a>
       <div class="nav-right">
+        <a href="/upcoming-projects.html" class="nav-link-projects">📍 Upcoming Projects</a>
         <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme" title="Toggle theme">🌙</button>
         <span class="nav-pill">100% Free Tools</span>
       </div>
@@ -1190,6 +1202,7 @@
           <div class="footer-col">
             <h4>Resources</h4>
             <ul>
+              <li><a href="/upcoming-projects.html">Upcoming Projects in Kolkata</a></li>
               <li><a href="https://rera.wb.gov.in" target="_blank" rel="noopener">Official WB RERA Portal ↗</a></li>
               <li><a href="https://wbrera.kevalahome.com/projects/index.html">Browse All RERA Projects</a></li>
               <li><a href="mailto:info@kevalahome.com">Contact Us</a></li>
