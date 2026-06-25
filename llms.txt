@@ -1,0 +1,21 @@
+# Kevala Home
+
+> Free property tools and market intelligence for buyers and sellers in West Bengal, India. No login, no ads, official government data sources only.
+
+Kevala Home builds free digital tools for the West Bengal real estate market — RERA verification, true cost calculation, and project search — plus sourced market intelligence on upcoming developments across Kolkata and West Bengal.
+
+## Tools
+
+- [WB RERA Check](https://wbrera.kevalahome.com/): Verify if a West Bengal real estate project is RERA registered and its current status (active, revoked, expired). Covers 4,300+ projects, sourced from rera.wb.gov.in.
+- [Total Cost Calculator](https://cost.kevalahome.com/): Calculates the true all-in cost of a property purchase in West Bengal — stamp duty, GST, registration fees, and more — beyond the quoted price.
+- [WB Project Finder](https://find.kevalahome.com/): Searchable map of RERA-verified real estate projects in West Bengal, filterable by district, project type, and possession year.
+
+## Market Intelligence
+
+- [Upcoming Real Estate Projects in West Bengal & Kolkata](https://www.kevalahome.com/upcoming-projects.html): Sourced data on Kolkata's growth corridors, metro expansion impact on property prices, and named upcoming projects with RERA status, updated periodically.
+
+## About
+
+- [Homepage](https://www.kevalahome.com/): Overview of all free tools and the data sources behind them.
+
+All data is sourced from official government portals (WB RERA, rera.wb.gov.in) and publicly reported market research (Knight Frank India, JLL, Anarock). Kevala Home is not a real estate brokerage and does not charge for any tool or information on this site.
